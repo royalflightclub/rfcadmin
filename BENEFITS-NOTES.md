@@ -2,7 +2,7 @@
 
 This app uses club rules supplied by its owner. It does not establish employment policy.
 
-Ticket allowance dates follow the joining-date renewal cycle: annual for pre-2020 joins and every two years for 2020 onwards. Each entitlement has its own Taken / Not taken status. Historical allowances without recorded evidence show Not recorded. Prior recorded ticket payments are preserved as Taken. A Taken entitlement remains visible until the next eligible cycle; history is retained. These statuses are separate from document expiry alerts.
+Ticket allowance dates follow the joining-date renewal cycle: annual for pre-2020 joins and every two years for 2020 onwards. Each entitlement has its own Received / Not yet received status. Historical allowances without recorded evidence show Not recorded. Prior recorded ticket payments are preserved as Received. A Received entitlement remains visible until the next eligible cycle; history is retained. These statuses are separate from document expiry alerts.
 
 Vacation entitlement is annual. Each leave year follows the joining-date anniversary. Dates are inclusive calendar days, including weekends. For 29 February joining dates the existing contract anniversary convention is 28 February in non-leap years.
 
