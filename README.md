@@ -1,5 +1,7 @@
 # Royal Flight Club Staff Document Tracker
 
+Birthday reminders appear in Overview and Reminders from seven days before through the birthday. Staff birthdays are editable, stored as month/day only and retained in backups. A private birthday-only JSON import matches staff references and changes no other staff fields. No staff birthdays are included in this public repository. Reminders run while the app is open, including a periodic refresh; there are no background notifications. February 29 uses February 28 in non-leap years.
+
 Imported annual leave entitlement is assigned per staff number from the private staff list and locked in the staff editor. Import a revised staff list to change the assignment. Existing verified opening balances and vacation/payment history are preserved. Assigned staff values are never bundled into the public app code.
 
 Leave balances accumulate: start from a verified balance once, carry unused days forward and add the fixed annual entitlement on every joining-date anniversary. There is no yearly reset. Approved/completed leave is deducted, future approved leave is reserved, and dated annual additions are retained without duplicates. A later verified balance acts as a correction/checkpoint. See BENEFITS-NOTES.md for calculation details.
