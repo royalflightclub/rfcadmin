@@ -1,5 +1,7 @@
 # Royal Flight Club Staff Document Tracker
 
+Imported annual leave entitlement is assigned per staff number from the private staff list and locked in the staff editor. Import a revised staff list to change the assignment. Existing verified opening balances and vacation/payment history are preserved. Assigned staff values are never bundled into the public app code.
+
 Automatic annual contract terms are calculated from joining-date anniversaries. These are schedules, not proof of signed renewal. Manual dates are supported. February 29 joins use February 28 anniversaries in non-leap years.
 
 Ticket allowances: joining before 2020 means yearly; joining in 2020 or later means every two years. Entitlement dates are calculated on the joining-date anniversary at every first/second contract renewal, respectively. Tracking starts at the latest reached entitlement at setup, or the first future entitlement for new staff. Earlier payment history is not inferred. Each entitlement has a Received / Not yet received status and stays visible for its current cycle; at the next eligible renewal a new entitlement appears. Historical records without evidence show Not recorded. Prior recorded payments are preserved as Received. See BENEFITS-NOTES.md for vacation balances, return reminders and record history. Revised roster imports preserve existing document details, notes, settings and payment logs and archive staff omitted from the new list.
